@@ -10,3 +10,5 @@ Only two files are needed to allow your program to read and write PNG files: lod
 The other files in the project are just examples, unit tests, etc...
 
 vulnerability patterns: lodepng
+
+PCI scope: NO
