@@ -12,3 +12,5 @@ The other files in the project are just examples, unit tests, etc...
 vulnerability patterns: lodepng
 
 PCI scope: NO
+
+Status: OBSOLETE
